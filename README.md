@@ -1,10 +1,10 @@
 # Student Performance Analysis 📊
 
-## Overview 🌐
+## Overview 
 
 The **Student Performance Analysis** project aims to analyze the academic performance of students using data from two datasets: "student-mat.csv" (Mathematics) and "student-por.csv" (Portuguese). The analysis is conducted using Python in a Jupyter Notebook (`p.ipynb`). The project explores various aspects such as the impact of study time, family background, and social factors on students' grades, and uses data visualization to present findings.
 
-## Features ✨
+## Features 
 
 - **Data Cleaning and Preprocessing:** Handles missing values, duplicates, and prepares data for analysis.
 - **Exploratory Data Analysis (EDA):** Provides insights into the distribution of grades, study time, and other attributes.
@@ -22,7 +22,7 @@ The **Student Performance Analysis** project aims to analyze the academic perfor
   
 Both datasets include various attributes such as gender, age, study time, family background, absences, and final grades (G1, G2, G3).
 
-## How It Works 🕹️
+## How It Works 
 
 1. **Load Data:** The notebook starts by loading the datasets from CSV files.
 2. **Data Cleaning:** Handles missing values, removes duplicates, and processes categorical data.
@@ -31,7 +31,7 @@ Both datasets include various attributes such as gender, age, study time, family
 5. **Predictive Modeling:** Applies machine learning models (e.g., Linear Regression, Decision Trees) to predict final grades.
 6. **Evaluation:** Evaluates model performance using metrics such as Mean Squared Error (MSE) and R-squared.
 
-## Current Design 🖼️
+## Current Design 
 
 Here are some snapshots showing different stages of the analysis:
 
@@ -56,7 +56,7 @@ Here are some snapshots showing different stages of the analysis:
 - **Matplotlib and Seaborn:** Libraries for data visualization.
 - **Scikit-Learn:** Machine learning library for predictive modeling.
 
-## Conclusion 📝
+## Conclusion 
 
 The **Student Performance Analysis** project provides valuable insights into the factors influencing students' academic outcomes. By leveraging data science techniques, this analysis helps identify key areas for intervention and improvement. The project is ideal for data analysts, educators, and policy-makers interested in understanding educational data.
 
